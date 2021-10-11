@@ -2,9 +2,10 @@
 
 - :godmode: I’m working on my skills
 
+<!--
 In my repositories there are all kinds of repositories. Many are for my own learning. Others I have used in various applications and all can be used by anyone.
 If you have any questions about how it works (I hope not but it is very likely that it will happen hehe) do not hesitate to contact me and ask me what it is.
-
+-->
 <!--
 **Gusjafo/Gusjafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
